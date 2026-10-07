@@ -1,3 +1,4 @@
-.
+[Actividad de Evaluación Continua - GIT]
+[Paso uno,creación del repositorio y clonación]; esto se ve adjuntado en la captura:26-27-igps\entregas\alexander.baban\AEC-GIT\capturas\fork-repo  y la clonación del archivo de githun se puede apreciar en la captura:26-27-igps\entregas\alexander.baban\AEC-GIT\capturas\clone 
 
 
